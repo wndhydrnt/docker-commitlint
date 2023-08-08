@@ -1,0 +1,30 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Test and build main
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    container:
+      image: ghcr.io/wndhydrnt/docker-semantic-release:latest
+      env:
+        GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+    steps:
+      - name: Install jq
+        run: |
+          apt-get update
+          apt-get install -y jq
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.RELEASE_TOKEN }}
+      - name: Configure git
+        run: |
+          git config --global user.name 'wndhydrnt'
+          git config --global user.email 'wndhydrnt@users.noreply.github.com'
+          git config --global --add safe.directory $GITHUB_WORKSPACE
+      - name: Release
+        run: semantic-release
