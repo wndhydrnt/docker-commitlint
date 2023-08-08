@@ -4,6 +4,13 @@ A Docker container that contains commitlint and plugins.
 
 Versions are being kept up-to-date by Renovate.
 
+## Usage
+
+```shell
+docker pull ghcr.io/wndhydrnt/docker-commitlint:v1.0.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.0.0 --version
+```
+
 ## Versions
 
 ### Docker Base Image
