@@ -36,6 +36,7 @@ Versions are being kept up-to-date by Renovate.
 
 \`\`\`shell
 docker pull ghcr.io/wndhydrnt/docker-commitlint:${release}
+docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:${release} --version
 \`\`\`
 
 ## Versions
