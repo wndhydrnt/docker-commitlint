@@ -7,8 +7,8 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-commitlint:1.1.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:1.1.0 --version
+docker pull ghcr.io/wndhydrnt/docker-commitlint:v1.1.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.1.0 --version
 ```
 
 ## Versions
