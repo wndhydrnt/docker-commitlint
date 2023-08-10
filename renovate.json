@@ -9,6 +9,11 @@
     {
       "matchPackagePatterns": ["@commitlint"],
       "groupName": "commitlint"
+    },
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true,
+      "minimumReleaseAge": "3 days"
     }
   ],
   "semanticCommits": "disabled"
