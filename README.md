@@ -7,15 +7,15 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-commitlint:v1.3.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.3.0 --version
+docker pull ghcr.io/wndhydrnt/docker-commitlint:v1.4.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.4.0 --version
 ```
 
 ## Versions
 
 ### Docker Base Image
 
-[Node](https://hub.docker.com/_/node): 18.17.1
+[Node](https://hub.docker.com/_/node): 18.18.0
 
 ### Packages
 
