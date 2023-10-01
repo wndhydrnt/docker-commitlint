@@ -7,8 +7,8 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-commitlint:v1.4.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.4.0 --version
+docker pull ghcr.io/wndhydrnt/docker-commitlint:v1.5.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.5.0 --version
 ```
 
 ## Versions
@@ -19,5 +19,5 @@ docker run --rm -it ghcr.io/wndhydrnt/docker-commitlint:v1.4.0 --version
 
 ### Packages
 
-- [@commitlint/cli: 17.7.1](https://www.npmjs.com/package/@commitlint/cli/v/17.7.1)
+- [@commitlint/cli: 17.7.2](https://www.npmjs.com/package/@commitlint/cli/v/17.7.2)
 - [@commitlint/config-conventional: 17.7.0](https://www.npmjs.com/package/@commitlint/config-conventional/v/17.7.0)

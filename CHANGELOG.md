@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/wndhydrnt/docker-commitlint/compare/v1.4.0...v1.5.0) (2023-10-01)
+
+
+### Features
+
+* **deps:** Update dependency @commitlint/cli to v17.7.2 ([#13](https://github.com/wndhydrnt/docker-commitlint/issues/13)) ([1898bd9](https://github.com/wndhydrnt/docker-commitlint/commit/1898bd99b4a7ceef29763b2140ac2c4a178bd964))
+
 ## [1.4.0](https://github.com/wndhydrnt/docker-commitlint/compare/v1.3.0...v1.4.0) (2023-09-24)
 
 
