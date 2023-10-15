@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/wndhydrnt/docker-commitlint/compare/v1.5.0...v1.6.0) (2023-10-15)
+
+
+### Features
+
+* **deps:** Update node Docker tag to v18.18.1 ([#14](https://github.com/wndhydrnt/docker-commitlint/issues/14)) ([247a950](https://github.com/wndhydrnt/docker-commitlint/commit/247a950a9ead8eee16731d5c3d4a6f25a7e2c16e))
+
 ## [1.5.0](https://github.com/wndhydrnt/docker-commitlint/compare/v1.4.0...v1.5.0) (2023-10-01)
 
 
