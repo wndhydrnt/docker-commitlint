@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/wndhydrnt/docker-commitlint/compare/v1.9.0...v1.9.1) (2023-11-29)
+
+
+### Bug Fixes
+
+* `MODULE_NOT_FOUND` error when extending config from @commitlint/config-conventional ([#19](https://github.com/wndhydrnt/docker-commitlint/issues/19)) ([2813119](https://github.com/wndhydrnt/docker-commitlint/commit/281311993b44e2bcc7a9be4c1c81eeadbe4c6e74))
+
 ## [1.9.0](https://github.com/wndhydrnt/docker-commitlint/compare/v1.8.0...v1.9.0) (2023-10-23)
 
 
