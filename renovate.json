@@ -12,6 +12,10 @@
       "groupName": "commitlint"
     },
     {
+      "matchManagers": ["github-actions"],
+      "commitMessagePrefix": "chore(deps):"
+    },
+    {
       "matchUpdateTypes": ["minor", "patch"],
       "automerge": true,
       "minimumReleaseAge": "3 days"
