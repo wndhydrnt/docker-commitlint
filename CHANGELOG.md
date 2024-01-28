@@ -1,3 +1,10 @@
+## [2.4.0](https://github.com/wndhydrnt/docker-commitlint/compare/v2.3.0...v2.4.0) (2024-01-28)
+
+
+### Features
+
+* **deps:** Update commitlint to v18.6.0 ([#23](https://github.com/wndhydrnt/docker-commitlint/issues/23)) ([1eaf9af](https://github.com/wndhydrnt/docker-commitlint/commit/1eaf9afe0c390d8bc641127d4e3c1d3ab88ae38e))
+
 ## [2.3.0](https://github.com/wndhydrnt/docker-commitlint/compare/v2.2.0...v2.3.0) (2024-01-25)
 
 
