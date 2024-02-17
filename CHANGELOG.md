@@ -1,3 +1,10 @@
+## [2.6.0](https://github.com/wndhydrnt/docker-commitlint/compare/v2.5.0...v2.6.0) (2024-02-17)
+
+
+### Features
+
+* **deps:** Update dependency @commitlint/config-conventional to v18.6.2 ([#26](https://github.com/wndhydrnt/docker-commitlint/issues/26)) ([ef0a86f](https://github.com/wndhydrnt/docker-commitlint/commit/ef0a86f4b131b95d274e3554564ed6a09f221d0e))
+
 ## [2.5.0](https://github.com/wndhydrnt/docker-commitlint/compare/v2.4.0...v2.5.0) (2024-02-16)
 
 
