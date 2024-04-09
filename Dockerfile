@@ -1,4 +1,4 @@
-FROM node:18.20.0
+FROM node:18.20.1
 
 COPY ./ /commitlint
 
