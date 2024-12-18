@@ -1,3 +1,9 @@
+## [3.6.0](https://github.com/wndhydrnt/docker-commitlint/compare/v3.5.0...v3.6.0) (2024-12-18)
+
+### Features
+
+* **deps:** Update dependency @commitlint/cli to v19.6.1 ([#40](https://github.com/wndhydrnt/docker-commitlint/issues/40)) ([c9a5615](https://github.com/wndhydrnt/docker-commitlint/commit/c9a5615f0c4e04aaba2f6825323000715258da1a))
+
 ## [3.5.0](https://github.com/wndhydrnt/docker-commitlint/compare/v3.4.0...v3.5.0) (2024-11-22)
 
 ### Features
