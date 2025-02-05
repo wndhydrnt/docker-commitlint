@@ -1,3 +1,9 @@
+## [3.8.0](https://github.com/wndhydrnt/docker-commitlint/compare/v3.7.0...v3.8.0) (2025-02-05)
+
+### Features
+
+* **deps:** Update commitlint to v19.7.1 ([#42](https://github.com/wndhydrnt/docker-commitlint/issues/42)) ([c38d53a](https://github.com/wndhydrnt/docker-commitlint/commit/c38d53a0c02c451a65392d79f93643d9afdee5be))
+
 ## [3.7.0](https://github.com/wndhydrnt/docker-commitlint/compare/v3.6.0...v3.7.0) (2025-01-26)
 
 ### Features
