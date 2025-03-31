@@ -1,3 +1,9 @@
+## [3.11.0](https://github.com/wndhydrnt/docker-commitlint/compare/v3.10.0...v3.11.0) (2025-03-31)
+
+### Features
+
+* **deps:** Update node Docker tag to v18.20.8 ([#45](https://github.com/wndhydrnt/docker-commitlint/issues/45)) ([bf7b24d](https://github.com/wndhydrnt/docker-commitlint/commit/bf7b24d6a75ad1d804dc2269abfb63336b8f8c1f))
+
 ## [3.10.0](https://github.com/wndhydrnt/docker-commitlint/compare/v3.9.0...v3.10.0) (2025-03-10)
 
 ### Features
